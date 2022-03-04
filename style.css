@@ -35,6 +35,8 @@ h4 {
   margin-left: 675px;
   padding-top: 10px;
   padding-bottom: 10px;
+  align-items: center;
+  justify-content: center;
 }
 
 #easy {
@@ -43,6 +45,8 @@ h4 {
   font-size: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
+  align-items: center;
+  justify-content: center;
 }
 
 #hard {
@@ -51,6 +55,8 @@ h4 {
   font-size: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
+  align-items: center;
+  justify-content: center;
 }
 
 #boxes {
@@ -68,6 +74,8 @@ h4 {
   padding: 10px;
   border-radius: 20px;
   margin-left: 60px;
+  align-items: center;
+  justify-content: center;
 }
 
 #hidden {
