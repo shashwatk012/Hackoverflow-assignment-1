@@ -29,54 +29,53 @@ h4 {
   background-color: rgb(223, 223, 157);
 }
 
+#hm {
+  text-align: center;
+}
+
 #newcolors {
-  font-size: 40px;
+  margin: auto;
   margin-top: 200px;
-  margin-left: 675px;
+  font-size: 40px;
   padding-top: 10px;
   padding-bottom: 10px;
-  align-items: center;
+}
+
+#hii {
   text-align: center;
-  justify-content: center;
 }
 
 #easy {
+  margin: auto;
   margin-top: 50px;
-  margin-left: 725px;
   font-size: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
-  align-items: center;
-  justify-content: center;
 }
 
 #hard {
+  margin: auto;
   margin-top: 30px;
-  margin-left: 725px;
   font-size: 40px;
   padding-top: 5px;
   padding-bottom: 5px;
-  align-items: center;
-  justify-content: center;
 }
 
 #boxes {
-  margin-left: 545px;
+  text-align: center;
   margin-top: 50px;
   display: grid;
+  justify-content: center;
   grid-template-columns: 100px 100px 100px;
   grid-gap: 30px;
 }
 #boxes > div {
   background: rgb(250, 248, 248);
-  align-items: center;
   width: 50px;
   height: 50px;
   padding: 10px;
   border-radius: 20px;
-  margin-left: 60px;
-  align-items: center;
-  justify-content: center;
+  /* margin-left: 50%; */
 }
 
 #hidden {
